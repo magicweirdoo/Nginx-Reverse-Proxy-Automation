@@ -4,8 +4,8 @@ This is a bash script wich automates your workflow and sets up NGINX reverse pro
 
 To use it install nginx on your Linux Server:
 
-  sudo apt update
-  sudo apt install nginx
+    sudo apt update
+    sudo apt install nginx
 
 Execute either with:
 
