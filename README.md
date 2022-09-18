@@ -13,5 +13,4 @@ To use it install nginx on your Linux Server:
 
     or
 
-
     sudo sh NGINX_rpat.sh
