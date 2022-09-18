@@ -7,10 +7,11 @@ To use it install nginx on your Linux Server:
   sudo apt update
   sudo apt install nginx
 
-    Execute either with:
+Execute either with:
+
     sudo chmod +x NGINX_rpat.sh
     sudo ./NGINX_rpat.sh
 
-    or
+or
 
     sudo sh NGINX_rpat.sh
