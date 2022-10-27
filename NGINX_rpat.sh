@@ -51,3 +51,4 @@ printf "\nserver{\n	listen $listening_port;\n	server_name $server_name;\n\n	loca
 #}
 
 ln -s $SitesAvailableLocation$server_name $SitesEnabledLocation 
+sudo systemctl restart nginx
