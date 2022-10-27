@@ -25,15 +25,15 @@ echo "╰╯╱╰┻━━┻━┻━━┻┻┻┻╯╰┻━┻┻━━�
 echo " "
 
 echo "Enter your listening port: " 
-read listening_port
+read listening_port                             #Example: 80
 echo " "
 
 echo "Enter the domain (server_name: )"
-read server_name
+read server_name                                #Example: sub.domain.com
 echo " "
 
 echo "Enter the proxy_pass: "
-read proxy_pass
+read proxy_pass                                 #Example: http://localhost:8080
 echo " " 
 
 
